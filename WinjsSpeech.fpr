@@ -1,0 +1,7 @@
+library WinjsSpeech;
+
+uses ChakraSpeech;
+
+exports GetJsValue;
+
+end.
